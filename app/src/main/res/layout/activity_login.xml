@@ -24,7 +24,7 @@
         android:layout_marginTop="30dp"
         android:background="#8bffffff"
         android:drawableLeft="@drawable/ic_user"
-        android:hint="Username"
+         android:text="admin"
         android:inputType="textPersonName"
         android:paddingLeft="5dp"
         android:textSize="16dp" />
@@ -37,7 +37,7 @@
         android:layout_marginTop="20dp"
         android:background="#8bffffff"
         android:drawableLeft="@drawable/ic_action_pass"
-        android:hint="Password"
+        android:text="1234"
         android:inputType="textPassword"
         android:paddingLeft="5dp"
         android:textSize="16dp" />
